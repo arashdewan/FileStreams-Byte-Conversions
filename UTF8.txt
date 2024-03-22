@@ -1,0 +1,18 @@
+ASCII characters!
+
+Some non-ASCII characters that do not require surrogates in UTF-16...
+æîõüăęƗǑǙαβγδεζηθλμξπρστωՁא؏ጬ₤ℂℍℕℚℝℤ∈∉∭☝ﬡאַאָאּﭏ
+
+Some characters that require surrogates in UTF-16...
+𝄆𝄇𝄞𝄡𝄢🍔🍕🍟🎶🎸🎻🎼🎾😀
+
+A sentence that uses a mixture of ASCII and non-ASCII characters...
+I like 🎸, 🎾, and 🍔s. I like most 🎶, but I wish I could play the 🎻.
+
+Some characters that use 1, 2, 3, and 4 bytes, respectively, in UTF-8 encoding...
+xyu~
+æՁא؏
+ℂℝℤﬡ
+𝄆𝄇🎾😀
+
+This file was originally encoded using UTF-16 (BE).
